@@ -1,0 +1,12 @@
+/*
+ * Main styles place here for the plugin
+ *
+ */
+
+#nevs_css_metabox .single.text{
+    width:100%;
+}
+#nevs_css_metabox textarea{
+    min-height: 280px;
+}
+
