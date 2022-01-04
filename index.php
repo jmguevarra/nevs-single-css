@@ -22,12 +22,13 @@ if(  !defined('WPINC') ){
 
 //define variables
 define('PLUGIN_DIR', dirname(__FILE__));
-define('PLUGIN_VERSION', '1.0.0');
+define('PLUGIN_VERSION', '1.0.1');
 define('TEXT_DOMAIN', 'nevs-single-css');
 
 
 //require files to load
 require_once 'includes/metabox.php';
 require_once 'includes/enqueue-scripts.php';
+require_once 'includes/shortcode.php';
 
  
